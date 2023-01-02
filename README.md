@@ -13,6 +13,8 @@ Custom handwired keyboard of the grandMA2 programming section, that sends MIDI n
 * Insulated copper wire
 
 ### Wiring Matrix:
+![keyboard](https://user-images.githubusercontent.com/80170229/210251995-ce025866-0632-42f6-a9ac-d74b289f22e6.svg)
+
 [keyboard.pdf](https://github.com/hartmann-jonas/GrandMA2-Keyboard/files/10332369/keyboard.pdf)
 
 ### Firmware:
