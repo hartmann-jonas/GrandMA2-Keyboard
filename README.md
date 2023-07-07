@@ -40,24 +40,26 @@ Solder the switches and diodes, according to the wiring matrix. *Don't solder th
 Do not go too hot with the temperature on the soldering iron. 300°C worked fine for me.
 
 ### Step 3:
-* Install KMK on the pico. Use the [tutorial](http://kmkfw.io/docs/Getting_Started/#tldr-quick-start-guide) supplied on their website
-* Instead of pasting their code in the created python file, paste the code that is in *main.py* (WIP) in this repo!
+* You need to install KMK on the microcontroller by following [this](https://github.com/KMKfw/kmk_firmware/blob/master/docs/en/Getting_Started.md) guide.
+* After installing KMK you need to replace the contents of your code.py or main.py file with [this file](https://github.com/hartmann-jonas/GrandMA2-Keyboard/blob/main/code.py).
+
+* If you run into errors when trying to send MIDI notes you might need to install the [adafruit_midi](http://kmkfw.io/docs/midi/) library on the microcontroller.
 
 ### Step 4:
 Now solder the rows and columns to the pico
 |Row    |Pico |Column     |Pico |
 |-------|-----|-----------|-----|
-|Row 0  |TODO |Column 0   |TODO |
-|Row 1  |TODO |Column 1   |TODO |
-|Row 2  |TODO |Column 2   |TODO |
-|Row 3  |TODO |Column 3   |TODO |
-|Row 4  |TODO |Column 4   |TODO |
-|Row 5  |TODO |Column 5   |TODO |
-|Row 6  |TODO |Column 6   |TODO |
-|Row 7  |TODO |Column 7   |TODO |
-|Row 8  |TODO |Column 8   |TODO |
-|Row 9  |TODO |
-|Row 10 |TODO |
+|Row 0  |GP 5 |Column 0   |GP 4 |
+|Row 1  |GP 8 |Column 1   |GP 3 |
+|Row 2  |GP 6 |Column 2   |GP 2 |
+|Row 3  |GP 7 |Column 3   |GP 1 |
+|Row 4  |GP 9 |Column 4   |GP 0 |
+|Row 5  |GP 10|Column 5   |GP 19|
+|Row 6  |GP 11|Column 6   |GP 18|
+|Row 7  |GP 12|Column 7   |GP 17|
+|Row 8  |GP 13|Column 8   |GP 16|
+|Row 9  |GP 14|
+|Row 10 |GP 15|
 
 ### Step 5:
 * Select the keyboard in the GrandMA2 onPC's *Midi In* settings
@@ -67,10 +69,10 @@ Now solder the rows and columns to the pico
 ![keyboard](https://user-images.githubusercontent.com/80170229/210251995-ce025866-0632-42f6-a9ac-d74b289f22e6.svg)
 [keyboard.pdf](https://github.com/hartmann-jonas/GrandMA2-Keyboard/files/10332369/keyboard.pdf)
 
-### Firmware:
-The firmware is written using [KMK](http://kmkfw.io)
 
-#### Still work in progress
+### Firmware:
+The firmware is written using [KMK](http://kmkfw.io).
+
 
 ### Midi:
 The midi notes need to be mapped new in every different showfile!
