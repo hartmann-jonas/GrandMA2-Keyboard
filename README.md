@@ -1,5 +1,5 @@
 # GrandMA2-Keyboard
-Custom handwired keyboard of the grandMA2 programming section, that sends MIDI notes to control onPC.
+Custom handwired keyboard of the grandMA2 programming section, that sends MIDI notes to control the console.
 
 [<img src="https://user-images.githubusercontent.com/80170229/210251196-0c96b4aa-1008-4bc5-b2f8-234fe1ce431a.jpg" style="width: 25% "/>](https://user-images.githubusercontent.com/80170229/210251196-0c96b4aa-1008-4bc5-b2f8-234fe1ce431a.jpg)
 
