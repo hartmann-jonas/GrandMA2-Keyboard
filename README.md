@@ -84,7 +84,7 @@ import "MA2_Keyboard" at remote 2
 ***NOTE***: If you already have midi mapping setup in your showfile, make sure there are no collisions of midi note numbers.
 
 ## Setup in GrandMA2 onPC
-You need to set the "Note" value in GrandMA2's Remote Input Settings to the 
+You need to set the "Note" value in GrandMA2's Remote Input Setting to the following table
 
 |Midi Number|Key|
 |--|-----------|
@@ -119,40 +119,42 @@ You need to set the "Note" value in GrandMA2's Remote Input Settings to the
 |28|Cue        |
 |29|Exec       |
 |30|Go -       |
-|31|Go +       |
-|32|Channel    |
-|33|Fixture    |
-|34|Group      |
-|35|Move       |
-|36|Time       |
-|37|Esc        |
-|38|7          |
-|39|8          |
-|40|9          |
-|41|+          |
-|42|Full       |
-|43|Highlight  |
-|44|Solo       |
-|45|Edit       |
-|46|Oops       |
-|47|4          |
-|48|5          |
-|49|6          |
-|50|Thru       |
-|51|1          |
-|52|2          |
-|53|3          |
-|54|Up         |
-|55|Update     |
-|56|Clear      |
-|57|0          |
-|58|. (Dot)    |
-|59|If         |
-|60|At         |
-|61|Previous   |
-|62|Set        |
-|63|Next       |
-|64|Store      |
-|65|MA         |
-|66|Please     |
-|67|Down       |
+|31|Pause      |
+|32|Go +       |
+|33|Channel    |
+|34|Fixture    |
+|35|Group      |
+|36|Move       |
+|37|Time       |
+|38|Esc        |
+|39|7          |
+|40|8          |
+|41|9          |
+|42|+          |
+|43|Full       |
+|44|Highlight  |
+|45|Solo       |
+|46|Edit       |
+|47|Oops       |
+|48|4          |
+|49|5          |
+|50|6          |
+|51|Thru       |
+|52|1          |
+|53|2          |
+|54|3          |
+|55|-          |
+|56|Up         |
+|57|Update     |
+|58|Clear      |
+|59|0          |
+|60|. (Dot)    |
+|61|If         |
+|62|At         |
+|63|Previous   |
+|64|Set        |
+|65|Next       |
+|66|Store      |
+|67|MA         |
+|68|Please     |
+|69|Down       |
