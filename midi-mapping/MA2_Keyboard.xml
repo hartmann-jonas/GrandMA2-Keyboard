@@ -1,0 +1,356 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<MA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.malighting.de/grandma2/xml/MA" xsi:schemaLocation="http://schemas.malighting.de/grandma2/xml/MA http://schemas.malighting.de/grandma2/xml/3.9.60/MA.xsd" major_vers="3" minor_vers="9" stream_vers="60">
+	<Info datetime="2023-08-23T00:00:00" showfile="ma2 keyboard midi export" />
+	<MidiRemotes index="1">
+		<RemoteMidi index="1" note="0" channel="3" type="hardkey" tasten_code="Encoder">
+			<InfoItems>
+				<Info date="2023-08-23T00:00:00">MA2 Keyboard project</Info>
+			</InfoItems>
+		</RemoteMidi>
+		<RemoteMidi index="2" note="1" channel="3" type="hardkey" tasten_code="Tools">
+			<InfoItems>
+				<Info date="2023-08-23T00:00:00">MA2 Keyboard project</Info>
+			</InfoItems>
+		</RemoteMidi>
+		<RemoteMidi index="3" note="2" channel="3" type="hardkey" tasten_code="Setup">
+			<InfoItems>
+				<Info date="2023-08-23T00:00:00">MA2 Keyboard project</Info>
+			</InfoItems>
+		</RemoteMidi>
+		<RemoteMidi index="4" note="3" channel="3" type="hardkey" tasten_code="Backup">
+			<InfoItems>
+				<Info date="2023-08-23T00:00:00">MA2 Keyboard project</Info>
+			</InfoItems>
+		</RemoteMidi>
+		<RemoteMidi index="5" note="4" channel="3" type="hardkey" tasten_code="Help">
+			<InfoItems>
+				<Info date="2023-08-23T00:00:00">MA2 Keyboard project</Info>
+			</InfoItems>
+		</RemoteMidi>
+		<RemoteMidi index="6" note="5" channel="3" type="hardkey" tasten_code="Blind">
+			<InfoItems>
+				<Info date="2023-08-23T00:00:00">MA2 Keyboard project</Info>
+			</InfoItems>
+		</RemoteMidi>
+		<RemoteMidi index="7" note="6" channel="3" type="hardkey" tasten_code="Freeze">
+			<InfoItems>
+				<Info date="2023-08-23T00:00:00">MA2 Keyboard project</Info>
+			</InfoItems>
+		</RemoteMidi>
+		<RemoteMidi index="8" note="7" channel="3" type="hardkey" tasten_code="Preview">
+			<InfoItems>
+				<Info date="2023-08-23T00:00:00">MA2 Keyboard project</Info>
+			</InfoItems>
+		</RemoteMidi>
+		<RemoteMidi index="9" note="8" channel="3" type="hardkey" tasten_code="Assign">
+			<InfoItems>
+				<Info date="2023-08-23T00:00:00">MA2 Keyboard project</Info>
+			</InfoItems>
+		</RemoteMidi>
+		<RemoteMidi index="10" note="9" channel="3" type="hardkey" tasten_code="Align">
+			<InfoItems>
+				<Info date="2023-08-23T00:00:00">MA2 Keyboard project</Info>
+			</InfoItems>
+		</RemoteMidi>
+		<RemoteMidi index="11" note="10" channel="3" type="hardkey" tasten_code="Fix">
+			<InfoItems>
+				<Info date="2023-08-23T00:00:00">MA2 Keyboard project</Info>
+			</InfoItems>
+		</RemoteMidi>
+		<RemoteMidi index="12" note="11" channel="3" type="hardkey" tasten_code="Select">
+			<InfoItems>
+				<Info date="2023-08-23T00:00:00">MA2 Keyboard project</Info>
+			</InfoItems>
+		</RemoteMidi>
+		<RemoteMidi index="13" note="12" channel="3" type="hardkey" tasten_code="Off">
+			<InfoItems>
+				<Info date="2023-08-23T00:00:00">MA2 Keyboard project</Info>
+			</InfoItems>
+		</RemoteMidi>
+		<RemoteMidi index="14" note="13" channel="3" type="hardkey" tasten_code="View">
+			<InfoItems>
+				<Info date="2023-08-23T00:00:00">MA2 Keyboard project</Info>
+			</InfoItems>
+		</RemoteMidi>
+		<RemoteMidi index="15" note="14" channel="3" type="hardkey" tasten_code="Effect">
+			<InfoItems>
+				<Info date="2023-08-23T00:00:00">MA2 Keyboard project</Info>
+			</InfoItems>
+		</RemoteMidi>
+		<RemoteMidi index="16" note="15" channel="3" type="hardkey" tasten_code="Goto">
+			<InfoItems>
+				<Info date="2023-08-23T00:00:00">MA2 Keyboard project</Info>
+			</InfoItems>
+		</RemoteMidi>
+		<RemoteMidi index="17" note="16" channel="3" type="hardkey" tasten_code="Delete">
+			<InfoItems>
+				<Info date="2023-08-23T00:00:00">MA2 Keyboard project</Info>
+			</InfoItems>
+		</RemoteMidi>
+		<RemoteMidi index="18" note="17" channel="3" type="hardkey" tasten_code="Temp">
+			<InfoItems>
+				<Info date="2023-08-23T00:00:00">MA2 Keyboard project</Info>
+			</InfoItems>
+		</RemoteMidi>
+		<RemoteMidi index="19" note="18" channel="3" type="hardkey" tasten_code="Top">
+			<InfoItems>
+				<Info date="2023-08-23T00:00:00">MA2 Keyboard project</Info>
+			</InfoItems>
+		</RemoteMidi>
+		<RemoteMidi index="20" note="19" channel="3" type="hardkey" tasten_code="On">
+			<InfoItems>
+				<Info date="2023-08-23T00:00:00">MA2 Keyboard project</Info>
+			</InfoItems>
+		</RemoteMidi>
+		<RemoteMidi index="21" note="20" channel="3" type="hardkey" tasten_code="Page">
+			<InfoItems>
+				<Info date="2023-08-23T00:00:00">MA2 Keyboard project</Info>
+			</InfoItems>
+		</RemoteMidi>
+		<RemoteMidi index="22" note="21" channel="3" type="hardkey" tasten_code="Macro">
+			<InfoItems>
+				<Info date="2023-08-23T00:00:00">MA2 Keyboard project</Info>
+			</InfoItems>
+		</RemoteMidi>
+		<RemoteMidi index="23" note="22" channel="3" type="hardkey" tasten_code="Preset">
+			<InfoItems>
+				<Info date="2023-08-23T00:00:00">MA2 Keyboard project</Info>
+			</InfoItems>
+		</RemoteMidi>
+		<RemoteMidi index="24" note="23" channel="3" type="hardkey" tasten_code="Copy">
+			<InfoItems>
+				<Info date="2023-08-23T00:00:00">MA2 Keyboard project</Info>
+			</InfoItems>
+		</RemoteMidi>
+		<RemoteMidi index="25" note="24" channel="3" type="hardkey" tasten_code="&lt;&lt;&lt;">
+			<InfoItems>
+				<Info date="2023-08-23T00:00:00">MA2 Keyboard project</Info>
+			</InfoItems>
+		</RemoteMidi>
+		<RemoteMidi index="26" note="25" channel="3" type="hardkey" tasten_code="Learn">
+			<InfoItems>
+				<Info date="2023-08-23T00:00:00">MA2 Keyboard project</Info>
+			</InfoItems>
+		</RemoteMidi>
+		<RemoteMidi index="27" note="26" channel="3" type="hardkey" tasten_code="&gt;&gt;&gt;">
+			<InfoItems>
+				<Info date="2023-08-23T00:00:00">MA2 Keyboard project</Info>
+			</InfoItems>
+		</RemoteMidi>
+		<RemoteMidi index="28" note="27" channel="3" type="hardkey" tasten_code="Sequence">
+			<InfoItems>
+				<Info date="2023-08-23T00:00:00">MA2 Keyboard project</Info>
+			</InfoItems>
+		</RemoteMidi>
+		<RemoteMidi index="29" note="28" channel="3" type="hardkey" tasten_code="Cue">
+			<InfoItems>
+				<Info date="2023-08-23T00:00:00">MA2 Keyboard project</Info>
+			</InfoItems>
+		</RemoteMidi>
+		<RemoteMidi index="30" note="29" channel="3" type="hardkey" tasten_code="Executor">
+			<InfoItems>
+				<Info date="2023-08-23T00:00:00">MA2 Keyboard project</Info>
+			</InfoItems>
+		</RemoteMidi>
+		<RemoteMidi index="31" note="30" channel="3" type="hardkey" tasten_code="GoMinus">
+			<InfoItems>
+				<Info date="2023-08-23T00:00:00">MA2 Keyboard project</Info>
+			</InfoItems>
+		</RemoteMidi>
+		<RemoteMidi index="32" note="31" channel="3" type="hardkey" tasten_code="Pause">
+			<InfoItems>
+				<Info date="2023-08-23T00:00:00">MA2 Keyboard project</Info>
+			</InfoItems>
+		</RemoteMidi>
+		<RemoteMidi index="33" note="32" channel="3" type="hardkey" tasten_code="GoPlus">
+			<InfoItems>
+				<Info date="2023-08-23T00:00:00">MA2 Keyboard project</Info>
+			</InfoItems>
+		</RemoteMidi>
+		<RemoteMidi index="34" note="33" channel="3" type="hardkey" tasten_code="Channel">
+			<InfoItems>
+				<Info date="2023-08-23T00:00:00">MA2 Keyboard project</Info>
+			</InfoItems>
+		</RemoteMidi>
+		<RemoteMidi index="35" note="34" channel="3" type="hardkey" tasten_code="Fixture">
+			<InfoItems>
+				<Info date="2023-08-23T00:00:00">MA2 Keyboard project</Info>
+			</InfoItems>
+		</RemoteMidi>
+		<RemoteMidi index="36" note="35" channel="3" type="hardkey" tasten_code="Group">
+			<InfoItems>
+				<Info date="2023-08-23T00:00:00">MA2 Keyboard project</Info>
+			</InfoItems>
+		</RemoteMidi>
+		<RemoteMidi index="37" note="36" channel="3" type="hardkey" tasten_code="Move">
+			<InfoItems>
+				<Info date="2023-08-23T00:00:00">MA2 Keyboard project</Info>
+			</InfoItems>
+		</RemoteMidi>
+		<RemoteMidi index="38" note="37" channel="3" type="hardkey" tasten_code="Time">
+			<InfoItems>
+				<Info date="2023-08-23T00:00:00">MA2 Keyboard project</Info>
+			</InfoItems>
+		</RemoteMidi>
+		<RemoteMidi index="39" note="38" channel="3" type="hardkey" tasten_code="Escape">
+			<InfoItems>
+				<Info date="2023-08-23T00:00:00">MA2 Keyboard project</Info>
+			</InfoItems>
+		</RemoteMidi>
+		<RemoteMidi index="40" note="39" channel="3" type="hardkey" tasten_code="7">
+			<InfoItems>
+				<Info date="2023-08-23T00:00:00">MA2 Keyboard project</Info>
+			</InfoItems>
+		</RemoteMidi>
+		<RemoteMidi index="41" note="40" channel="3" type="hardkey" tasten_code="8">
+			<InfoItems>
+				<Info date="2023-08-23T00:00:00">MA2 Keyboard project</Info>
+			</InfoItems>
+		</RemoteMidi>
+		<RemoteMidi index="42" note="41" channel="3" type="hardkey" tasten_code="9">
+			<InfoItems>
+				<Info date="2023-08-23T00:00:00">MA2 Keyboard project</Info>
+			</InfoItems>
+		</RemoteMidi>
+		<RemoteMidi index="43" note="42" channel="3" type="hardkey" tasten_code="Plus">
+			<InfoItems>
+				<Info date="2023-08-23T00:00:00">MA2 Keyboard project</Info>
+			</InfoItems>
+		</RemoteMidi>
+		<RemoteMidi index="44" note="43" channel="3" type="hardkey" tasten_code="Full">
+			<InfoItems>
+				<Info date="2023-08-23T00:00:00">MA2 Keyboard project</Info>
+			</InfoItems>
+		</RemoteMidi>
+		<RemoteMidi index="45" note="44" channel="3" type="hardkey" tasten_code="Highlight">
+			<InfoItems>
+				<Info date="2023-08-23T00:00:00">MA2 Keyboard project</Info>
+			</InfoItems>
+		</RemoteMidi>
+		<RemoteMidi index="46" note="45" channel="3" type="hardkey" tasten_code="Solo">
+			<InfoItems>
+				<Info date="2023-08-23T00:00:00">MA2 Keyboard project</Info>
+			</InfoItems>
+		</RemoteMidi>
+		<RemoteMidi index="47" note="46" channel="3" type="hardkey" tasten_code="Edit">
+			<InfoItems>
+				<Info date="2023-08-23T00:00:00">MA2 Keyboard project</Info>
+			</InfoItems>
+		</RemoteMidi>
+		<RemoteMidi index="48" note="47" channel="3" type="hardkey" tasten_code="Oops">
+			<InfoItems>
+				<Info date="2023-08-23T00:00:00">MA2 Keyboard project</Info>
+			</InfoItems>
+		</RemoteMidi>
+		<RemoteMidi index="49" note="48" channel="3" type="hardkey" tasten_code="4">
+			<InfoItems>
+				<Info date="2023-08-23T00:00:00">MA2 Keyboard project</Info>
+			</InfoItems>
+		</RemoteMidi>
+		<RemoteMidi index="50" note="49" channel="3" type="hardkey" tasten_code="5">
+			<InfoItems>
+				<Info date="2023-08-23T00:00:00">MA2 Keyboard project</Info>
+			</InfoItems>
+		</RemoteMidi>
+		<RemoteMidi index="51" note="50" channel="3" type="hardkey" tasten_code="6">
+			<InfoItems>
+				<Info date="2023-08-23T00:00:00">MA2 Keyboard project</Info>
+			</InfoItems>
+		</RemoteMidi>
+		<RemoteMidi index="52" note="51" channel="3" type="hardkey" tasten_code="Thru">
+			<InfoItems>
+				<Info date="2023-08-23T00:00:00">MA2 Keyboard project</Info>
+			</InfoItems>
+		</RemoteMidi>
+		<RemoteMidi index="53" note="52" channel="3" type="hardkey" tasten_code="1">
+			<InfoItems>
+				<Info date="2023-08-23T00:00:00">MA2 Keyboard project</Info>
+			</InfoItems>
+		</RemoteMidi>
+		<RemoteMidi index="54" note="53" channel="3" type="hardkey" tasten_code="2">
+			<InfoItems>
+				<Info date="2023-08-23T00:00:00">MA2 Keyboard project</Info>
+			</InfoItems>
+		</RemoteMidi>
+		<RemoteMidi index="55" note="54" channel="3" type="hardkey" tasten_code="3">
+			<InfoItems>
+				<Info date="2023-08-23T00:00:00">MA2 Keyboard project</Info>
+			</InfoItems>
+		</RemoteMidi>
+		<RemoteMidi index="56" note="55" channel="3" type="hardkey" tasten_code="Minus">
+			<InfoItems>
+				<Info date="2023-08-23T00:00:00">MA2 Keyboard project</Info>
+			</InfoItems>
+		</RemoteMidi>
+		<RemoteMidi index="57" note="56" channel="3" type="hardkey" tasten_code="Up">
+			<InfoItems>
+				<Info date="2023-08-23T00:00:00">MA2 Keyboard project</Info>
+			</InfoItems>
+		</RemoteMidi>
+		<RemoteMidi index="58" note="57" channel="3" type="hardkey" tasten_code="Update">
+			<InfoItems>
+				<Info date="2023-08-23T00:00:00">MA2 Keyboard project</Info>
+			</InfoItems>
+		</RemoteMidi>
+		<RemoteMidi index="59" note="58" channel="3" type="hardkey" tasten_code="Clear">
+			<InfoItems>
+				<Info date="2023-08-23T00:00:00">MA2 Keyboard project</Info>
+			</InfoItems>
+		</RemoteMidi>
+		<RemoteMidi index="60" note="59" channel="3" type="hardkey" tasten_code="0">
+			<InfoItems>
+				<Info date="2023-08-23T00:00:00">MA2 Keyboard project</Info>
+			</InfoItems>
+		</RemoteMidi>
+		<RemoteMidi index="61" note="60" channel="3" type="hardkey" tasten_code="Dot">
+			<InfoItems>
+				<Info date="2023-08-23T00:00:00">MA2 Keyboard project</Info>
+			</InfoItems>
+		</RemoteMidi>
+		<RemoteMidi index="62" note="61" channel="3" type="hardkey" tasten_code="If">
+			<InfoItems>
+				<Info date="2023-08-23T00:00:00">MA2 Keyboard project</Info>
+			</InfoItems>
+		</RemoteMidi>
+		<RemoteMidi index="63" note="62" channel="3" type="hardkey" tasten_code="At">
+			<InfoItems>
+				<Info date="2023-08-23T00:00:00">MA2 Keyboard project</Info>
+			</InfoItems>
+		</RemoteMidi>
+		<RemoteMidi index="64" note="63" channel="3" type="hardkey" tasten_code="Previous">
+			<InfoItems>
+				<Info date="2023-08-23T00:00:00">MA2 Keyboard project</Info>
+			</InfoItems>
+		</RemoteMidi>
+		<RemoteMidi index="65" note="64" channel="3" type="hardkey" tasten_code="Set">
+			<InfoItems>
+				<Info date="2023-08-23T00:00:00">MA2 Keyboard project</Info>
+			</InfoItems>
+		</RemoteMidi>
+		<RemoteMidi index="66" note="65" channel="3" type="hardkey" tasten_code="Next">
+			<InfoItems>
+				<Info date="2023-08-23T00:00:00">MA2 Keyboard project</Info>
+			</InfoItems>
+		</RemoteMidi>
+		<RemoteMidi index="67" note="66" channel="3" type="hardkey" tasten_code="Store">
+			<InfoItems>
+				<Info date="2023-08-23T00:00:00">MA2 Keyboard project</Info>
+			</InfoItems>
+		</RemoteMidi>
+		<RemoteMidi index="68" note="67" channel="3" type="hardkey" tasten_code="MA">
+			<InfoItems>
+				<Info date="2023-08-23T00:00:00">MA2 Keyboard project</Info>
+			</InfoItems>
+		</RemoteMidi>
+		<RemoteMidi index="69" note="68" channel="3" type="hardkey" tasten_code="Please">
+			<InfoItems>
+				<Info date="2023-08-23T00:00:00">MA2 Keyboard project</Info>
+			</InfoItems>
+		</RemoteMidi>
+		<RemoteMidi index="70" note="69" channel="3" type="hardkey" tasten_code="Down">
+			<InfoItems>
+				<Info date="2023-08-23T00:00:00">MA2 Keyboard project</Info>
+			</InfoItems>
+		</RemoteMidi>
+	</MidiRemotes>
+</MA>

@@ -77,28 +77,84 @@ The firmware is written using [KMK](http://kmkfw.io).
 ### Midi:
 The midi notes need to be mapped new in every different showfile!
 
+To import the midi mappings into your showfile, copy the [MA2_Keyboard.xml](https://github.com/hartmann-jonas/GrandMA2-Keyboard/blob/main/midi-mapping/MA2_Keyboard.xml) into your `importexport` folder of your GrandMA2 install and run the import command
+```
+import "MA2_Keyboard" at remote 2
+```
+***NOTE***: If you already have midi mapping setup in your showfile, make sure there are no collisions of midi note numbers.
 
 ## Setup in GrandMA2 onPC
-You need to set the "Note" value in GrandMA2's Remote Input Settings to the 
+You need to set the "Note" value in GrandMA2's Remote Input Setting to the following table
 
-|Midi Number|Key|Midi Number|Key|Midi Number|Key|Midi Number|Key|
-|--|-----------|--|------------|--|------------|--|------------|
-|0|Encoder Key |19|On          |38|7           |57|0
-|1|Tools       |20|Page        |39|8           |58|. (Dot)
-|2|Setup       |21|Macro       |40|9           |59|If
-|3|Backup      |22|Preset      |41|+           |60|At
-|4|Help        |23|Copy        |42|Full        |61|Previous
-|5|Blind       |24|<<<         |43|Highlight   |62|Set
-|6|Freeze      |25|Learn       |44|Solo        |63|Next
-|7|Preview     |26|>>>         |45|Edit        |64|Store
-|8|Assign      |27|Sequ        |46|Oops        |65|MA
-|9|Align       |28|Cue         |47|4           |66|Please
-|10|Fix        |29|Exec        |48|5           |67|Down
-|11|Select     |30|Go -        |49|6
-|12|Off        |31|Go +        |50|Thru
-|13|View       |32|Channel     |51|1
-|14|Effect     |33|Fixture     |52|2
-|15|Goto       |34|Group       |53|3
-|16|Del        |35|Move        |54|Up
-|17|Temp       |36|Time        |55|Update
-|18|Top        |37|Esc         |56|Clear
+|Midi Number|Key|
+|--|-----------|
+|0|Encoder Key |
+|1|Tools       |
+|2|Setup       |
+|3|Backup      |
+|4|Help        |
+|5|Blind       |
+|6|Freeze      |
+|7|Preview     |
+|8|Assign      |
+|9|Align       |
+|10|Fix        |
+|11|Select     |
+|12|Off        |
+|13|View       |
+|14|Effect     |
+|15|Goto       |
+|16|Del        |
+|17|Temp       |
+|18|Top        |
+|19|On         |
+|20|Page       |
+|21|Macro      |
+|22|Preset     |
+|23|Copy       |
+|24|<<<        |
+|25|Learn      |
+|26|>>>        |
+|27|Sequ       |
+|28|Cue        |
+|29|Exec       |
+|30|Go -       |
+|31|Pause      |
+|32|Go +       |
+|33|Channel    |
+|34|Fixture    |
+|35|Group      |
+|36|Move       |
+|37|Time       |
+|38|Esc        |
+|39|7          |
+|40|8          |
+|41|9          |
+|42|+          |
+|43|Full       |
+|44|Highlight  |
+|45|Solo       |
+|46|Edit       |
+|47|Oops       |
+|48|4          |
+|49|5          |
+|50|6          |
+|51|Thru       |
+|52|1          |
+|53|2          |
+|54|3          |
+|55|-          |
+|56|Up         |
+|57|Update     |
+|58|Clear      |
+|59|0          |
+|60|. (Dot)    |
+|61|If         |
+|62|At         |
+|63|Previous   |
+|64|Set        |
+|65|Next       |
+|66|Store      |
+|67|MA         |
+|68|Please     |
+|69|Down       |
